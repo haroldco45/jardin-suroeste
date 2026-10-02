@@ -1,0 +1,16 @@
+{
+  "name": "Jardín, Hispania y Andes en un día",
+  "short_name": "Jardín en un día",
+  "description": "Pasadía al Suroeste antioqueño con Viajamax. Reserva con Alba Rosa Durán.",
+  "lang": "es-CO",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#FFFFFF",
+  "theme_color": "#EB0A1E",
+  "icons": [
+    {"src": "img/icon-192.png", "sizes": "192x192", "type": "image/png"},
+    {"src": "img/icon-512.png", "sizes": "512x512", "type": "image/png"},
+    {"src": "img/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable"}
+  ]
+}
